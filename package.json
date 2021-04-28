@@ -16,7 +16,7 @@
     "animejs": "^2.2.0",
     "autoprefixer": "^6.7.2",
     "axios": "^0.18.0",
-    "buefy": "^0.6.7",
+    "buefy": "^0.7.2",
     "canvas-autoscale": "^2.0.0",
     "ccapture.js": "^1.0.7",
     "correcting-interval": "^2.0.0",
